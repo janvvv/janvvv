@@ -2,6 +2,9 @@
 
 I’m currently learning Python.
 
+My codwars profile:
+https://www.codewars.com/users/jahucw
+
 
 <!--
 **janvvv/janvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
