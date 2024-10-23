@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I’m currently learning Python.
 
-My codwars profile:
-https://www.codewars.com/users/jahucw
 
 
 <!--
